@@ -77,7 +77,6 @@
 				DAF67EB12896B72900A40226 /* Resources */,
 				DAF67E9D2896B5E400A40226 /* Views */,
 				DAF67E8F2896B5B400A40226 /* EatingPlacesApp.swift */,
-				DAF67EC32896B79100A40226 /* AccentColor.colorset */,
 				DAF67E932896B5C700A40226 /* Assets.xcassets */,
 				DAF67E952896B5C700A40226 /* Preview Content */,
 			);
@@ -123,13 +122,6 @@
 				DAF67EB62896B76C00A40226 /* Places.swift */,
 			);
 			path = Model;
-			sourceTree = "<group>";
-		};
-		DAF67EC32896B79100A40226 /* AccentColor.colorset */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = AccentColor.colorset;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

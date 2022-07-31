@@ -15,7 +15,7 @@ import SwiftUI
 struct RowList: View {
     @State private var showFavoritesOnly = false
     @EnvironmentObject var modelData: ModelData
-
+    
     var filteredPlaces: [Place] {
         modelData.places.filter { place in
             (!showFavoritesOnly || place.starred)
@@ -26,9 +26,9 @@ struct RowList: View {
             List {
                 //Button to toggle whether or not only favorited places are shown
                 Toggle(isOn: $showFavoritesOnly) {
-
+                    
                     Text("Favorites only")
-
+                    
                 }
                 
                 ForEach(filteredPlaces) { place in
