@@ -1,0 +1,145 @@
+[
+  {
+    "name" : "Cơm Tấm Minh Long",
+    "address" : "607 Nguyễn Thị Thập, Tân Hưng, Quận 7",
+    "id" : 1,
+    "price": "$",
+    "starred": false,
+    "coordinates": {
+      "latitude":10.739811721555373, 
+      "longitude":106.7030554921575
+    },
+    "imageName": "minhlong",
+    "description": "Decent portion for the price. I often eat here when I'm out of school because its so near. They not only have Com Tam but also other side dishes, but I always order Com Tam when I'm here"
+  },
+  {
+    "name" : "OMG Gà Chiên Đài Loan",
+    "address": "Đường số 6, E006 Hưng Vượng 1",
+    "id": 2,
+    "price": "$",
+    "starred": false,
+    "coordinates": {
+      "latitude":10.730185725954174,
+      "longitude":106.71016409990652
+    },
+    "imageName": "omga",
+     "description": "Good value and delicious fried chicken. The crust of their fried chicken is different than your typical franchises such as KFC and Lotteria. The best part is that if you eat at their location, they will give you seasoning packets to season your chicken to your prefererence."
+  },
+  {
+    "name" : "Bún đậu mẹt Huy Tân",
+    "address": "395 Đ. Nguyễn Văn Khối, Phường 8, Gò Vấp",
+    "id": 3,
+    "price": "$",
+    "starred": false,
+    "coordinates": {
+      "latitude":10.843769580193351,
+      "longitude":106.64802715115675
+    },
+    "imageName": "bundau",
+     "description": "One of the best bun dau in HCMC in my opinion, with good value too. It is near my house so I visit it often. Only complaint is that their tofu is not so crunchy"
+  },
+  {
+    "name" : "I Love Kem",
+    "address": "257 Thống Nhất, Phường 11, Gò Vấp",
+    "id": 4,
+    "price": "$$",
+    "starred": false,
+    "coordinates": {
+      "latitude":10.838428696475782,
+      "longitude":106.66511629496799
+    },
+    "imageName": "ilovekem",
+     "description": "Affordable ice cream place. They sell you ice cream based on the weight so you're not forced into portion size and I like that. Each franchise have a big selection of flavors, and they even have a toppings station! My favorite is cookie and cream."
+  },
+  {
+    "name" : "Chewy Junior",
+    "address": "304A Quang Trung, Phường 11, Gò Vấp",
+    "id": 5,
+    "price": "$$",
+    "starred": false,
+    "coordinates": {
+      "latitude":10.834599447641482,
+      "longitude": 106.66204333997118
+    },
+    "imageName": "chewy",
+     "description": "The best cream puff shop in Saigon in my opinion. Not too expensive, and they have so much flavors to choose, from matcha to mango to even pork floss flavor."
+  },
+  {
+    "name" : "Gogi House",
+    "address": "758 Nguyễn Văn Quá, Đông Hưng Thuận, Quận 12",
+    "id": 6,
+    "price": "$$",
+    "starred": false,
+    "coordinates": {
+      "latitude":10.845796726273944,
+      "longitude": 106.63302749110112
+    },
+    "imageName": "gogi",
+     "description": "My favorite place to eat Korean BBQ buffet. They not only have BBQ but also have hotpot and free dessert included in the buffet ticket."
+  },
+  {
+    "name" : "Hotpot Story",
+    "address": "970 Nguyễn Văn Quá, Đông Hưng Thuận, Quận 12",
+    "id": 7,
+    "price": "$$",
+    "starred": false,
+    "coordinates": {
+      "latitude":10.84988279231536,
+      "longitude": 106.63647953277004
+    },
+    "imageName": "hotpot",
+     "description": "My favorite place to eat hotpot. They got alot of broth selections and the beef is really good. Only complaint is lack of sauce options, as they just give you soy sauce and fish sauce."
+  },
+  {
+    "name" : "Popeyes",
+    "address": "785 Nguyễn Văn Quá, Đông Hưng Thuận, Quận 12",
+    "id": 8,
+    "price": "$$",
+    "starred": false,
+    "coordinates": {
+      "latitude":10.848471667138318,
+      "longitude": 106.63541752285569
+    },
+    "imageName": "soya",
+     "description": "The best part about Popeyes is the fries. Nothing beat popeyes at their seasoned french fries. Their fried chicken is also great, less oily compared to KFC"
+  },
+  {
+    "name" : "Jollibee",
+    "address": "127 Nguyễn Văn Quá, Đông Hưng Thuận, Quận 12,",
+    "id": 9,
+    "price": "$$",
+    "starred": false,
+    "coordinates": {
+      "latitude":10.846802959649837,
+      "longitude": 106.63414097910217
+    },
+    "imageName": "jollibee",
+     "description": "Jollibee is good all round. They got more diverse menu items compared to other franchises. My favorite dish of theirs is the spaghetti and the chocolate sundae ice creams"
+  },
+  {
+    "name" : "Xiao Ban Soya",
+    "address": "702 Nguyễn Văn Linh, Tân Hưng, Quận 7",
+    "id": 10,
+    "price": "$$",
+    "starred": false,
+    "coordinates": {
+      "latitude":10.729509005910758,
+      "longitude": 106.69500728880502
+    },
+    "imageName": "soya",
+     "description": "Even though the place has Soya in its name, I only come there for the waffle that they sell. Their waffle are crispy and fluffy, and they come with many toppings and even waffle flavor, with exotic ones such as the charcoal waffle. My personal favorite is the peanut butter waffle."
+  },
+  {
+    "name" : "Curry Hut",
+    "address": "702 Nguyễn Văn Linh, Tân Hưng, Quận 7",
+    "id": 11,
+    "price": "$$",
+    "starred": false,
+    "coordinates": {
+      "latitude":10.729724053761508,
+      "longitude": 106.69456301297585
+    },
+    "imageName": "curry",
+     "description": "My favorite place to grab lunch in RMIT. It hard to find Indian food where I live, and even harder to find an affordable one, so having just that place at school is the best thing ever. My favorite menu item of theirs is the yellow rice with butter chicken. "
+  }
+]
