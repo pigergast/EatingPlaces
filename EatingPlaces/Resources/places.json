@@ -141,5 +141,18 @@
     },
     "imageName": "curry",
      "description": "My favorite place to grab lunch in RMIT. It hard to find Indian food where I live, and even harder to find an affordable one, so having just that place at school is the best thing ever. My favorite menu item of theirs is the yellow rice with butter chicken. "
+  },
+  {
+    "name" : "GM The Coffee Town",
+    "address": "501 Đ. Lê Văn Lương, Tân Hưng, Quận 7",
+    "id": 12,
+    "price": "$$",
+    "starred": false,
+    "coordinates": {
+      "latitude":10.735890296258448,
+      "longitude": 106.70287173096024
+    },
+    "imageName": "GM",
+     "description": "Even though it is a cafe, Coffee Town also serves food. Mostly fast foods though, such as fried instant noodle. It is near school, and when I'm not hungry I often just call for a back coffee "
   }
 ]

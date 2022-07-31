@@ -69,8 +69,7 @@ struct DetailView_Previews: PreviewProvider {
     static let modelData = ModelData()
     static var previews: some View {
 
-          DetailView(place: modelData.places[0])
-
+          DetailView(place: modelData.places[11])
               .environmentObject(modelData)
 }
 }

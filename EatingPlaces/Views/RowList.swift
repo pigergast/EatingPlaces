@@ -11,7 +11,7 @@
  */
 import SwiftUI
 
-//Row list that lists all the avaiable places to view. Clicking onto a row navigates to the detailed view of that place. 
+//Row list that lists all the avaiable places to view. Clicking onto a row navigates to the detailed view of that place.
 struct RowList: View {
     @State private var showFavoritesOnly = false
     @EnvironmentObject var modelData: ModelData
