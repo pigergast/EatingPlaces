@@ -13,6 +13,7 @@
 
 import SwiftUI
 
+//Button that lets the user favorite or unfavorite a place, dependings on the place's existing favorite status
 struct StarButton: View {
     @Binding var isStarred: Bool
     var body: some View {

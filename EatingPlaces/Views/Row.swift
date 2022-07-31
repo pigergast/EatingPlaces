@@ -21,6 +21,8 @@ struct Row: View {
                 .frame(width: 50, height: 50)
             Text(place.name)
             Spacer()
+            
+            //If ia place is favorited, then there will be a full star, if not, then a hollow star
             if place.starred{
             Image(systemName: "star.fill")
                 .foregroundColor(.blue)

@@ -11,7 +11,7 @@
  */
 import SwiftUI
 
-//Row list that lists all the avaiable places to view. Clicking onto a row navigates to the detailed view of that place
+//Row list that lists all the avaiable places to view. Clicking onto a row navigates to the detailed view of that place. 
 struct RowList: View {
     @State private var showFavoritesOnly = false
     @EnvironmentObject var modelData: ModelData
@@ -24,6 +24,7 @@ struct RowList: View {
     var body: some View {
         NavigationView{
             List {
+                //Button to toggle whether or not only favorited places are shown
                 Toggle(isOn: $showFavoritesOnly) {
 
                     Text("Favorites only")
