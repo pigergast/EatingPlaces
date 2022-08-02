@@ -154,5 +154,18 @@
     },
     "imageName": "GM",
      "description": "Even though it is a cafe, Coffee Town also serves food. Mostly fast foods though, such as fried instant noodle. It is near school, and when I'm not hungry I often just call for a back coffee "
+  },
+  {
+    "name" : "Dim Tu Tac",
+    "address": "202A Hoàng Văn Thụ, Phường 9, Phú Nhuận",
+    "id": 13,
+    "price": "$$$",
+    "starred": false,
+    "coordinates": {
+      "latitude":10.800833417226333,
+      "longitude": 106.6705814334509
+    },
+    "imageName": "dimtutac",
+     "description": "Dim Tu Tac is one of my favorite Chinese restaurants in Saigon. They got everything from dimsum courses to roast pig. My favorite dish is their is the egg custard dumpling dessert, which is a dumpling but has a liquidy sweet and creamy egg sauce on the inside. A definite must try!"
   }
 ]

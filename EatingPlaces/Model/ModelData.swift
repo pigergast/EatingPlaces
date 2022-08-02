@@ -15,7 +15,7 @@ import Combine
 
 final class ModelData: ObservableObject {
     @Published var places: [Place] = load("places.json")
-
+    
 }
 //Function to decode data from json file and put it into an array of Places
 
@@ -43,7 +43,7 @@ func load<T: Decodable>(_ filename: String) -> T {
         fatalError("Couldn't load \(filename) from main bundle:\n\(error)")
         
     }
-
+    
     
     do {
         

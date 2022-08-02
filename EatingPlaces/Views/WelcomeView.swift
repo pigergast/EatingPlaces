@@ -22,7 +22,7 @@ struct WelcomeView: View {
                 IntroView(active: $welcomeStatus)
             }
             else {
-                RowList()
+                RowList().environmentObject(ModelData())
             }
         }
     }

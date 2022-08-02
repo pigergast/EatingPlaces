@@ -15,10 +15,10 @@ struct DetailView: View {
     @EnvironmentObject var modelData: ModelData
     var place: Place
     var placeIndex: Int {
-         modelData.places.firstIndex(where: { $0.id == place.id })!
-     }
-
-
+        modelData.places.firstIndex(where: { $0.id == place.id })!
+    }
+    
+    
     var body: some View {
         //Scrollview so that if description is long, user can scroll down
         ScrollView {
@@ -68,8 +68,8 @@ struct DetailView: View {
 struct DetailView_Previews: PreviewProvider {
     static let modelData = ModelData()
     static var previews: some View {
-
-          DetailView(place: modelData.places[11])
-              .environmentObject(modelData)
-}
+        
+        DetailView(place: modelData.places[11])
+            .environmentObject(modelData)
+    }
 }

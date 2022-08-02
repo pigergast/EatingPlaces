@@ -53,6 +53,6 @@ struct RowList: View {
 
 struct RowList_Previews: PreviewProvider {
     static var previews: some View {
-        RowList()
+        RowList().environmentObject(ModelData())
     }
 }
