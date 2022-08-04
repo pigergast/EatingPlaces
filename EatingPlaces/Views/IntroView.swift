@@ -5,9 +5,9 @@
  Assessment: Assignment 2
  Author: Le Pham Ngoc Hieu
  ID: 38377375
- Created  date: 27/07/2022
- Last modified: 27/07/2022
- Acknowledgement: Apple's SwiftUI Essentials tutorial
+ Created  date: 04/08/2022
+ Last modified: 04/08/2022
+ Acknowledgement: Apple's SwiftUI Essentials tutorial https://developer.apple.com/tutorials/swiftui
  */
 import SwiftUI
 
