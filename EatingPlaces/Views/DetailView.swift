@@ -14,6 +14,7 @@ import SwiftUI
 struct DetailView: View {
     @EnvironmentObject var modelData: ModelData
     var place: Place
+    //Match row's data id with modelData's place array's id in order to extract the data for the detaile dview
     var placeIndex: Int {
         modelData.places.firstIndex(where: { $0.id == place.id })!
     }
@@ -52,6 +53,7 @@ struct DetailView: View {
                     .bold()
                 
                 Text(place.description)
+                //Button to change favorite status
                 HStack {
                     Spacer()
                     StarButton(isStarred: $modelData.places[placeIndex].starred)
